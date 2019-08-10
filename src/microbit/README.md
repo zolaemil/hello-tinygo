@@ -12,6 +12,6 @@ It blinks the entire array of built-in LEDs on the board.
 
 Build and deploy:
 
-`tinygo build -o=/Volumes/MICROBIT/blink.hex -target=microbit examples/microbit-blink`
+`tinygo build -o=/Volumes/MICROBIT/blink.hex -target=microbit microbit-blink.go`
 
 (Replace `Volumes/MICROBIT` with the path to the mounted Micro:bit on your system)
