@@ -2,7 +2,7 @@
 
 Experiments with running go on BBC micro:bit
 
-## Blink
+## Blink
 
 This is an extended version of the [official example](https://github.com/tinygo-org/tinygo/tree/master/src/examples/microbit-blink) of Tinygo for the Micro:bit. 
 
